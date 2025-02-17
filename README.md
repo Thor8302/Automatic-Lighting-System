@@ -10,7 +10,8 @@ This project implements an advanced IoT-based automatic lighting system that lev
 - **ESP32-CAM Firmware Optimization**: Dynamic brightness and contrast adjustments reduce false positives by 40% and improve image clarity under varying lighting conditions.
 
 ## System Architecture
-![System Architecture](path/to/system_architecture_image.png)
+![System Architecture]![IMG20230306165047](https://github.com/user-attachments/assets/c222be2e-c952-4bec-894b-c55eca0a78a4)
+  )
 
 ## Hardware Components
 - ESP32-CAM
